@@ -7,19 +7,19 @@ Tracking subreddit-specific versions and live links for the "GitHub as an Idea P
 
 ## r/sideproject
 Link:
-Notes: Initial framing around using GitHub as a build-and-think platform.
+Notes: Initial framing around using GitHub as a build-and-think platform..
 
 ## r/selfhosted
 Link:
-Notes: Framed around documentation, local-first thinking, and ownership.
+Notes: Initial framing around using GitHub as a build-and-think platform.
 
 ## r/opensource
 Link:
-Notes: Positioned around open collaboration and public iteration.
+Notes: Initial framing around using GitHub as a build-and-think platform.
 
 ## r/programming
 Link:
-Notes: More technical framing focused on GitHub as structured infrastructure for ideas.
+Notes: Initial framing around using GitHub as a build-and-think platform.
 
 ---
 
