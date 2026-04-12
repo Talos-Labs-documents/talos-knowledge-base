@@ -6,8 +6,8 @@ Tracking subreddit-specific versions and live links for the "GitHub as an Idea P
 ---
 
 ## r/sideproject
-Link:
-Notes: Initial framing around using GitHub as a build-and-think platform..
+Link:https://www.reddit.com/r/SideProject/comments/1sizd5z/using_github_as_a_platform_for_ideas_instead_of/
+Notes:Initial live test post
 
 ## r/selfhosted
 Link:
